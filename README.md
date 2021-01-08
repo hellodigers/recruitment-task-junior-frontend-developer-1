@@ -14,7 +14,7 @@
 
 ### Preparation
 Sign-up for free *NASA API* key https://api.nasa.gov/index.html#apply-for-an-api-key
-to use the *APOD API* - https://api.nasa.gov/api.html#apod for this project.
+to use the *APOD API* - https://api.nasa.gov/index.html#browseAPI for this project.
 
 
 
